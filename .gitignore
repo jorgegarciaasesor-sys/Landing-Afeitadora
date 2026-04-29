@@ -45,3 +45,5 @@ get-token.mjs
 get-token.mjs.txt
 *.log
 .dev-server.log
+
+.vercel
